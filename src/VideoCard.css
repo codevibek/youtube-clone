@@ -4,11 +4,11 @@
 }
 
 .videoCard__thumbnail{
-    height: 140px;
-    width: 250px;
+    height: 200px;
+    object-fit: contain;
 }
 
-.videoCard__info{
+.videoCard__info{ 
     display: flex;
     margin-top: 10px;
     padding-right: 30px;
